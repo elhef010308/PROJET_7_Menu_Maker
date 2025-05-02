@@ -81,19 +81,17 @@ Vous avez maintenant toutes les clés en main pour mener à bien votre projet ! 
 
 ## **LES ÉTAPES DU PROJET**
 
-**- ÉTAPE 1 :** Mettez en place l'application
+**- ÉTAPE 1 :** Prenez en main les documents à votre disposition
 
-**- ÉTAPE 1.1 :** Créez un serveur Express simple
+**- ÉTAPE 2 :** Mettez en place un système de veille
 
-**- ÉTAPE 1.2 :** I=Créez une API RESTful
+**- ÉTAPE 3 :** Définissez les besoins techniques
 
-**- ÉTAPE 1.3 :** Mettez en place un système d'authentification sur votre application
+**- ÉTAPE 4 :** Réfléchissez à votre Kanban
 
-**- ÉTAPE 1.4 :** Ajoutez une gestion des fichiers utilisateurs sur l'application
+**- ÉTAPE 5 :** Découper les tâches du Kanban
 
-**- ÉTAPE 2 :** Gérez l'ajout d'une notation d'un livre
-
-**- ÉTAPE 3 :** Gérez le calcul de la note moyenne d'un livre
+**- ÉTAPE 6 :** Préparez la présentation finale pour Soufiane
 
 
 
